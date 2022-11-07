@@ -2,6 +2,8 @@ package com.example.android_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
@@ -29,10 +31,17 @@ public class MainActivity extends AppCompatActivity {
                 if(username.getText().toString().equals("admin") && password.getText().toString().equals("admin")){
                     //correct
                     Toast.makeText(MainActivity.this,"LOGIN SUCCESSFUL",Toast.LENGTH_SHORT).show();
+                    Intent i = new Intent(MainActivity.this, Menu.class);
+                    startActivity(i);
                 }else
                     //incorrect
                     Toast.makeText(MainActivity.this,"LOGIN FAILED !!!",Toast.LENGTH_SHORT).show();
             }
         });
     }
+
+    public void launchMenu(View view){
+
+    }
+
 }
