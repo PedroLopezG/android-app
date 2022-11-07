@@ -12,8 +12,13 @@
 
 -Gameplay: Movimiento en escenario 2D (estilo pokemon) en un mapa lineal que a la vez podras explorar para obtener bonificaciones (te encontraras con personajes que compartan consejos contigo que el juego interpretara como bonificaciones), en el mapa se encontraran los oponentes, que te interrumpiran y te desafiaran, el desafio sera por turnos al estilo pokemon</string>
     <string name="about_the_game">Sobre el Juego</string>
-    <string name="characters">Personajes</string>
+    <string name="characters">Casas</string>
     <string name="log_out">CERRAR SESION</string>
     <string name="select_save">SELECCIONAR PARTIDA</string>
     <string name="new_game">NUEVA PARTIDA</string>
+    <string name="back">Atras</string>
+    <string name="h_targ">Casa Targaryen</string>
+    <string name="h_stark">Casa Stark</string>
+    <string name="h_lann">Casa Lannister</string>
+    <string name="h_bara">Casa Baratheon</string>
 </resources>

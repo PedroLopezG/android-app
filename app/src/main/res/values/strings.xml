@@ -12,9 +12,14 @@
 
 -Gameplay: Movement on a 2D stage (pokemon style) on a linear map that you can explore at the same time to obtain bonuses (you will meet characters that share advice with you that the game will interpret as bonuses), the opponents will be found on the map, which they will interrupt you and challenge you, the challenge will be in turns pokemon style</string>
     <string name="about_the_game">About the game</string>
-    <string name="characters">Characters</string>
+    <string name="characters">Houses</string>
     <string name="log_out">LOG OUT</string>
     <string name="select_save">SELECT SAVE GAME</string>
     <string name="new_game">NEW GAME</string>
     <string name="back">Back</string>
+    <string name="h_targ">House Targaryen</string>
+    <string name="h_stark">House Stark</string>
+    <string name="h_lann">House Lannister</string>
+    <string name="h_bara">House Baratheon</string>
+
 </resources>
