@@ -1,5 +1,4 @@
 # Android - Conceptos Basicos
-##
 Link al repositorio: https://github.com/PedroLopezG/android-app.git
 
 Hemos realizado una aplicación android en la cual te puedes identificar con usuario admin y password admin. Una vez que te has registrado te lleva a un menú con distintas opciones
@@ -10,7 +9,8 @@ Hemos realizado una aplicación android en la cual te puedes identificar con usu
 Hemos creado una activity para la descripción del juego y otra para la selección de casas disponibles.
 
 ![about](https://user-images.githubusercontent.com/98825807/200416807-ed4fa6a6-0e83-4e15-b990-954f5d0f6346.png)
-![casasEsp](https://user-images.githubusercontent.com/98825807/200416834-48d67f20-1b79-416f-9593-c2e6a26ba226.png)
+![casasEsp](https://user-images.githubusercontent.com/98825807/200417750-ac495167-01b2-4df5-b1b2-761eec7b7c57.png)
+
 
 Todas las pantallas de la aplicación están tanto en español como en inglés, y se selecciona por defecto según la configuración del móvil:
 
