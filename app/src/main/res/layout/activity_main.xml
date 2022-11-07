@@ -16,7 +16,7 @@
         android:layout_marginEnd="70dp"
         android:layout_marginBottom="70dp"
         android:gravity="center"
-        android:text="A song of Ice &amp; Fire"
+        android:text="@string/title"
         android:textColor="@color/white"
         android:textSize="30dp"
         android:textStyle="bold" />

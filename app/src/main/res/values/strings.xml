@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">android-app</string>
+    <string name="title"><![CDATA[A song of Ice & Fire]]></string>
+    <string name="menu">Menu</string>
+    <string name="jugar">JUGAR</string>
+    <string name="aboutText">El rey ha llamado a Kingslanding l rey ha llamado a Kingslanding a todos los aspirantes al Iron Throne de todo Westeros para averiguar quien es el mas apto para comandar los ejercitos ante la amenaza del Night King, en este juego tu eres uno de esos contendientes y exploraras la Red Keep mientras participas en duelos de estrategia con todos los Lords
+
+-Gameplay: Movimiento en escenario 2D (estilo pokemon) en un mapa lineal que a la vez podras explorar para obtener bonificaciones (te encontraras con personajes que compartan consejos contigo que el juego interpretara como bonificaciones), en el mapa se encontraran los oponentes, que te interrumpiran y te desafiaran, el desafio sera por turnos al estilo pokemon</string>
+    <string name="about_the_game">Sobre el Juego</string>
+    <string name="sobre_el_juego">Sobre el juego</string>
 </resources>
