@@ -14,4 +14,6 @@
     <string name="about_the_game">About the game</string>
     <string name="characters">Characters</string>
     <string name="log_out">LOG OUT</string>
+    <string name="select_save">SELECT SAVE GAME</string>
+    <string name="new_game">NEW GAME</string>
 </resources>
