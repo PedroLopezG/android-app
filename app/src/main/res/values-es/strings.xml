@@ -15,7 +15,8 @@
     <string name="characters">Casas</string>
     <string name="log_out">CERRAR SESION</string>
     <string name="select_save">SELECCIONAR PARTIDA</string>
-    <string name="new_game">NUEVA PARTIDA</string>
+    <string name="addBtn">AÑADIR NUEVA PARTIDA</string>
+    <string name="new_hint">NOMBRE DE PARTIDA</string>
     <string name="back">Atras</string>
     <string name="h_targ">Casa Targaryen</string>
     <string name="h_stark">Casa Stark</string>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">android-app</string>
-    <string name="asoif">A sonf of Ice &amp; Fire</string>
+    <string name="asoif">A song of Ice &amp; Fire</string>
     <string name="user_name">Username</string>
     <string name="password">Password</string>
     <string name="login_btn">LOGIN</string>
@@ -15,11 +15,13 @@
     <string name="characters">Houses</string>
     <string name="log_out">LOG OUT</string>
     <string name="select_save">SELECT SAVE GAME</string>
-    <string name="new_game">NEW GAME</string>
+    <string name="addBtn">ADD NEW GAME</string>
+    <string name="new_hint">NEW GAME NAME</string>
     <string name="back">Back</string>
     <string name="h_targ">House Targaryen</string>
     <string name="h_stark">House Stark</string>
     <string name="h_lann">House Lannister</string>
     <string name="h_bara">House Baratheon</string>
+
 
 </resources>
