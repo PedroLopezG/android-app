@@ -3,7 +3,7 @@ Link al repositorio: https://github.com/PedroLopezG/android-app.git
 
 Hemos realizado una aplicación android en la cual te puedes identificar con usuario admin y password admin. Una vez que te has registrado te lleva a un menú con distintas opciones
 
-![login](https://user-images.githubusercontent.com/98825807/200416736-2ceef59d-a1e4-43cf-a61a-a8518f1d26a2.png)
+![loginesp](https://user-images.githubusercontent.com/98825807/200420849-c90cd436-a9fa-47a4-8cfa-b1f38d3f069c.png)
 ![menuEsp](https://user-images.githubusercontent.com/98825807/200416764-d4391265-b7a4-4d35-867c-0f309b1feaab.png)
 
 Hemos creado una activity para la descripción del juego y otra para la selección de casas disponibles.
