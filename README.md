@@ -14,5 +14,4 @@ Hemos creado una activity para la descripción del juego y otra para la selecci�
 
 Todas las pantallas de la aplicación están tanto en español como en inglés, y se selecciona por defecto según la configuración del móvil:
 
-![menuEng](https://user-images.githubusercontent.com/98825807/200416872-f6ca09e0-da38-410f-a634-6fa3864af58e.png)
-
+![menuEng](https://user-images.githubusercontent.com/98825807/200416872-f6ca09e0-da38-410f-a634-6fa3864af58e.png)![android_1_72](https://user-images.githubusercontent.com/98824525/200430207-970c8ddc-d4e1-483b-827b-c06d09384e73.png)
