@@ -16,4 +16,5 @@
     <string name="log_out">LOG OUT</string>
     <string name="select_save">SELECT SAVE GAME</string>
     <string name="new_game">NEW GAME</string>
+    <string name="back">Back</string>
 </resources>

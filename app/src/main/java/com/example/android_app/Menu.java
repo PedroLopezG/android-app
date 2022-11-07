@@ -23,4 +23,9 @@ public class Menu extends AppCompatActivity {
         Intent i = new Intent(Menu.this, MainActivity.class);
         startActivity(i);
     }
+
+    public void onIraPjs(View view) {
+        Intent i = new Intent(Menu.this, Personajes.class);
+        startActivity(i);
+    }
 }

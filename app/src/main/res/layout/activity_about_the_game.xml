@@ -78,7 +78,7 @@
                 android:layout_marginBottom="0dp"
                 android:backgroundTint="#1C1C1C"
                 android:gravity="center_horizontal"
-                android:text="Volver"
+                android:text="@string/back"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 android:onClick="launchMenu"
