@@ -1,11 +1,17 @@
 <resources>
     <string name="app_name">android-app</string>
+    <string name="asoif">A sonf of Ice &amp; Fire</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
     <string name="title"><![CDATA[A song of Ice & Fire]]></string>
     <string name="menu">Menu</string>
-    <string name="jugar">JUGAR</string>
-    <string name="aboutText">El rey ha llamado a Kingslanding l rey ha llamado a Kingslanding a todos los aspirantes al Iron Throne de todo Westeros para averiguar quien es el mas apto para comandar los ejercitos ante la amenaza del Night King, en este juego tu eres uno de esos contendientes y exploraras la Red Keep mientras participas en duelos de estrategia con todos los Lords
+    <string name="jugar">PLAY</string>
+    <string name="aboutText">The king has called all the Iron Throne aspirants from all over Westeros to Kingslanding to find out who is the most suitable to command the armies against the threat of the Night King, in this game you are one of those contenders and you will explore the Red Keep while you participate in strategy duels with all the Lords
 
--Gameplay: Movimiento en escenario 2D (estilo pokemon) en un mapa lineal que a la vez podras explorar para obtener bonificaciones (te encontraras con personajes que compartan consejos contigo que el juego interpretara como bonificaciones), en el mapa se encontraran los oponentes, que te interrumpiran y te desafiaran, el desafio sera por turnos al estilo pokemon</string>
-    <string name="about_the_game">Sobre el Juego</string>
-    <string name="sobre_el_juego">Sobre el juego</string>
+-Gameplay: Movement on a 2D stage (pokemon style) on a linear map that you can explore at the same time to obtain bonuses (you will meet characters that share advice with you that the game will interpret as bonuses), the opponents will be found on the map, which they will interrupt you and challenge you, the challenge will be in turns pokemon style</string>
+    <string name="about_the_game">About the game</string>
+    <string name="characters">Characters</string>
+    <string name="log_out">LOG OUT</string>
 </resources>
