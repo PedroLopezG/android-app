@@ -81,7 +81,7 @@
                 android:background="#80978A1B"
                 android:elevation="20dp"
                 android:gravity="center"
-                android:text="@string/h_bara"
+                android:text="@string/h_lann"
                 android:textColor="@color/white"
                 android:textSize="24sp"
                 android:textStyle="bold"

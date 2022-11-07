@@ -29,10 +29,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/titleMenu"
-        android:layout_alignParentEnd="true"
+        android:layout_alignParentEnd="false"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
-        android:layout_marginEnd="176dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="0dp"
         android:gravity="center_horizontal"
         android:text="@string/menu"
         android:textColor="@color/white"
@@ -51,7 +51,9 @@
         android:layout_marginEnd="30dp"
         android:backgroundTint="#1C1C1C"
         android:text="@string/jugar"
-        android:theme="@style/Button.White" />
+        android:theme="@style/Button.White"
+        android:onClick="onSaves"/>
+
 
     <Button
         android:id="@+id/btnInstruc"

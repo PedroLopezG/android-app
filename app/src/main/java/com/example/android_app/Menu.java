@@ -28,4 +28,8 @@ public class Menu extends AppCompatActivity {
         Intent i = new Intent(Menu.this, Personajes.class);
         startActivity(i);
     }
+    public void onSaves(View view) {
+        Intent s = new Intent(Menu.this, Saves.class);
+        startActivity(s);
+    }
 }
