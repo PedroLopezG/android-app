@@ -9,7 +9,8 @@ Hemos realizado una aplicación android en la cual te puedes identificar con usu
 Hemos creado una activity para la descripción del juego y otra para la selección de casas disponibles.
 
 ![about](https://user-images.githubusercontent.com/98825807/200416807-ed4fa6a6-0e83-4e15-b990-954f5d0f6346.png)
-![casasEsp](https://user-images.githubusercontent.com/98825807/200417750-ac495167-01b2-4df5-b1b2-761eec7b7c57.png)
+![casasimgs](https://user-images.githubusercontent.com/98825807/200810803-a5f5640c-4e65-45ee-ab41-d2ad6544d010.png)
+
 
 
 Todas las pantallas de la aplicación están tanto en español como en inglés, y se selecciona por defecto según la configuración del móvil:
