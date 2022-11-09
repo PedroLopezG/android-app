@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">android-app</string>
-    <string name="asoif">A sonf of Ice &amp; Fire</string>
+    <string name="asoif">A song of Ice &amp; Fire</string>
     <string name="user_name">Username</string>
     <string name="password">Password</string>
     <string name="login_btn">LOGIN</string>

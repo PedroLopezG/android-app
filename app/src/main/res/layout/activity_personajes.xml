@@ -45,12 +45,11 @@
 
             <TextView
                 android:id="@+id/targaryen"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:layout_marginTop="60dp"
-                android:background="#66730000"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
                 android:elevation="20dp"
                 android:gravity="center"
+                android:background="@drawable/targaryen2"
                 android:text="@string/h_targ"
                 android:textColor="@color/white"
                 android:textSize="24sp"
@@ -60,10 +59,10 @@
 
             <TextView
                 android:id="@+id/stark"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:layout_marginTop="32dp"
-                android:background="#7C636875"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="22dp"
+                android:background="@drawable/stark2"
                 android:elevation="20dp"
                 android:gravity="center"
                 android:text="@string/h_stark"
@@ -75,10 +74,10 @@
 
             <TextView
                 android:id="@+id/lannister"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
                 android:layout_marginTop="32dp"
-                android:background="#80978A1B"
+                android:background="@drawable/lannister"
                 android:elevation="20dp"
                 android:gravity="center"
                 android:text="@string/h_lann"
@@ -90,10 +89,10 @@
 
             <TextView
                 android:id="@+id/baratheon"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
                 android:layout_marginTop="32dp"
-                android:background="#6D913213"
+                android:background="@drawable/baratheon"
                 android:elevation="20dp"
                 android:gravity="center"
                 android:text="@string/h_bara"
