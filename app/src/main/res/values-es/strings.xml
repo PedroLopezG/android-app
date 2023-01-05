@@ -3,6 +3,7 @@
     <string name="asoif">Canción de hielo y fuego</string>
     <string name="user_name">Usuario</string>
     <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
     <string name="login_btn">INICIAR SESION</string>
     <string name="forgot_password">Has olvidado la contraseña?</string>
     <string name="title"><![CDATA[Canción de hielo y fuego]]></string>
@@ -22,4 +23,7 @@
     <string name="h_stark">Casa Stark</string>
     <string name="h_lann">Casa Lannister</string>
     <string name="h_bara">Casa Baratheon</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="go_to_login">¿Ya tienes cuenta?</string>
+    <string name="create_an_account">Crear una cuenta</string>
 </resources>

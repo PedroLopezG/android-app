@@ -3,6 +3,7 @@
     <string name="asoif">A song of Ice &amp; Fire</string>
     <string name="user_name">Username</string>
     <string name="password">Password</string>
+    <string name="name">Name</string>
     <string name="login_btn">LOGIN</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="title"><![CDATA[A song of Ice & Fire]]></string>
@@ -22,6 +23,9 @@
     <string name="h_stark">House Stark</string>
     <string name="h_lann">House Lannister</string>
     <string name="h_bara">House Baratheon</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="go_to_login">Already have an account?</string>
+    <string name="create_an_account">Create an account</string>
 
 
 </resources>
